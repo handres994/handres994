@@ -1,11 +1,10 @@
-## Hi there 👋  I am Harold Mejia. I am an Experienced Fullstack Developer, starting in the world IT and Skilled in React JS, React Native, NodeJS, MongoDB, JavaScript and Express. focused in UI UX Developer / Front End Developer / Web Designer – Distance Education.
+## Hola que tal 👋 Soy Harold Mejia. Soy un Desarrollador Fullstack sin Experiencia, iniciando en el mundo IT y Hábil en React JS, React Native, NodeJS, MongoDB, JavaScript y Express. Front End Developer.
 
-- 🔭 I’m currently working in my proyects - repositories 
-- 🌱 I’m currently learning Python - UI UX
-- 👯 I’m looking to collaborate on open source/commercial projects
-- 🤔 I’m looking for help with digital marketing to drive traffic to my blog
-- 💬 Ask me about Web Development
-- 📫 How to reach me:
+- 🔭 Actualmente estoy trabajando en mis proyectos - repositorios 
+- 🌱 Actualmente estoy aprendiendo Python
+- 👯 Estoy buscando colaborar en proyectos de código abierto / comerciales
+- 💬 Pregúntame sobre el desarrollo web
+- 📫 Cómo contactar conmigo:
 
 <p align="center">
   <img src="https://github.com/demartini/demartini/blob/master/code.gif">
