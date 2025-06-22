@@ -1,10 +1,13 @@
-## Hola que tal 👋 Soy Harold Mejia. Soy un Desarrollador Fullstack sin Experiencia, iniciando en el mundo IT y Hábil en React JS, React Native, NodeJS, MongoDB, JavaScript y Express. Front End Developer.
 
-- 🔭 Actualmente estoy trabajando en mis proyectos - repositorios 
-- 🌱 Actualmente estoy aprendiendo Python
-- 👯 Estoy buscando colaborar en proyectos de código abierto / comerciales
-- 💬 Pregúntame sobre el desarrollo web
-- 📫 Cómo contactar conmigo:
+# Hola que tal 👋 Soy Harold Mejia. 
+
+Soy un Desarrollador Fullstack sin Experiencia, iniciando en el mundo TI.
+
+# GitHub stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=handres994&theme=highcontrast&hide_border=true&locale=es)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <p align="center">
   <img src="https://github.com/demartini/demartini/blob/master/code.gif">
