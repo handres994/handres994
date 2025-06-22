@@ -8,8 +8,11 @@ Estoy dando mis primeros pasos en el mundo TI y estoy entusiasmado por las oport
 
 ## 📊 Estadísticas de GitHub
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=handres994&theme=highcontrast&hide_border=true&locale=es)](https://git.io/streak-stats)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=handres994&layout=compact&theme=highcontrast)
+ <div>
+  <a href="https://github.com/handres994">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
 ---
 
