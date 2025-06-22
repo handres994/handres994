@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Harold Mejía
 
-Soy un **Desarrollador Full Stack en formación**, apasionado por el mundo de la tecnología y el desarrollo web. Aunque aún no tengo experiencia profesional, estoy comprometido con seguir aprendiendo y desarrollando proyectos que fortalezcan mis habilidades en **HTML, CSS, JavaScript, TypeScript, React, Node.js, Python, Java, Spring Boot y SQL**.
+Soy un **Desarrollador Full Stack en formación**, apasionado por el mundo de la tecnología y el desarrollo web. Actualmente me encuentro adquiriendo experiencia profesional en el desarrollo de software, mientras continúo aprendiendo y fortaleciendo mis habilidades en **HTML, CSS, JavaScript, TypeScript, React, Node.js, Python, Java, Spring Boot y SQL**.
 
 Estoy dando mis primeros pasos en el mundo TI y estoy entusiasmado por las oportunidades que vendrán.
 
